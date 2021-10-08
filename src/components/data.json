@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "Album":"ABC",
+      "title":"Harry Potter Series",
+      "img":"https://s3-us-west-2.amazonaws.com/flx-editorial-wordpress/wp-content/uploads/2021/01/30155600/harry-potter-and-the-sorcerers-stone-600x314.jpg"
+       
+    },
+    {
+        "id": 2,
+        "Album":"DFC",
+        "title":"Plants",
+        "img":"https://s3-us-west-2.amazonaws.com/flx-editorial-wordpress/wp-content/uploads/2021/01/30155600/harry-potter-and-the-sorcerers-stone-600x314.jpg"
+         
+      },
+      {
+        "id": 3,
+        "Album":"EFGG",
+        "title":"valcanoes",
+        "img":"https://s3-us-west-2.amazonaws.com/flx-editorial-wordpress/wp-content/uploads/2021/01/30155600/harry-potter-and-the-sorcerers-stone-600x314.jpg"
+         
+      },
+      {
+        "id": 4,
+        "Album":"IJK",
+        "title":"covid19",
+        "img":"https://s3-us-west-2.amazonaws.com/flx-editorial-wordpress/wp-content/uploads/2021/01/30155600/harry-potter-and-the-sorcerers-stone-600x314.jpg"
+         
+      },
+      {
+        "id": 5,
+        "Album":"LMN",
+        "title":"Pzifer",
+        "img":"https://s3-us-west-2.amazonaws.com/flx-editorial-wordpress/wp-content/uploads/2021/01/30155600/harry-potter-and-the-sorcerers-stone-600x314.jpg"
+         
+      },
+      {
+        "id": 6,
+        "Album":"OPP",
+        "title":"mastercard",
+        "img":"https://s3-us-west-2.amazonaws.com/flx-editorial-wordpress/wp-content/uploads/2021/01/30155600/harry-potter-and-the-sorcerers-stone-600x314.jpg"
+         
+      },
+      {
+        "id": 7,
+        "Album":"QRS",
+        "title":"Horror Series",
+        "img":"https://s3-us-west-2.amazonaws.com/flx-editorial-wordpress/wp-content/uploads/2021/01/30155600/harry-potter-and-the-sorcerers-stone-600x314.jpg"
+         
+      },
+       {
+        "id": 8,
+        "Album":"TUX",
+        "title":"007",
+        "img":"https://s3-us-west-2.amazonaws.com/flx-editorial-wordpress/wp-content/uploads/2021/01/30155600/harry-potter-and-the-sorcerers-stone-600x314.jpg"
+         
+      },
+      {
+        "id": 9,
+        "Album":"WX",
+        "title":"Ireland",
+        "img":"https://s3-us-west-2.amazonaws.com/flx-editorial-wordpress/wp-content/uploads/2021/01/30155600/harry-potter-and-the-sorcerers-stone-600x314.jpg"
+         
+      },
+      {
+        "id": 10,
+        "Album":"YZS",
+        "title":"galway",
+        "img":"https://s3-us-west-2.amazonaws.com/flx-editorial-wordpress/wp-content/uploads/2021/01/30155600/harry-potter-and-the-sorcerers-stone-600x314.jpg"
+         
+      }
+      
+      
+          
+  ]
