@@ -10,14 +10,13 @@ export const counterSlice = createSlice({
   initialState,
   reducers: {
     increment: (state) => {
-
-      if( Math.max(0, state.info.length-1)){
+      if(state.count < state.info.length -1)
       state.count += 1;
-      }
-        
     },
+        
+    
     decrement: (state) => {
-      if(!state.count<0 )
+     if(state.count > 0)
       state.count -= 1;
       
     },

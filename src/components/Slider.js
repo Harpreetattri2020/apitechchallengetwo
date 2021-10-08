@@ -1,19 +1,21 @@
 import React from 'react'
 import { useDispatch, useSelector } from 'react-redux'
-import { decrement, increment } from '../redux/counter';
+import {  decrement, increment } from '../redux/counter';
 
 const Slider = () => {
 const {info,count}= useSelector(state => state.counter);
 
 
+
 const dispatch = useDispatch();
+
 
     return (
         <div className="w-90% h-50vh flex relative flex-col">
             <div className="flex text-center absolute left-[50%] top-24">
-            
+        
             <h1>{info[count].Album}</h1>
-           
+        
             </div>
            
             <div className="flex items-center my-48 justify-between ">
