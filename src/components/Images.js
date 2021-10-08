@@ -1,11 +1,14 @@
 import React from 'react'
-
-const Images = ({album,imgs,title}) => {
+import { useDispatch } from 'react-redux'
+import { clickon } from '../redux/counter';
+const Images = ({id,album,imgs,title}) => {
+    
+    const dispatch=useDispatch();
     return (
         
             <div className="mt-[20px] ">
 
-            <img className="object-contain " src={imgs} alt="" />
+            <img onClick={()=>dispatch(clickon(id))} className="object-contain " src={imgs} alt="" />
             </div>
         
     )

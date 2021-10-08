@@ -1,74 +1,73 @@
 [
     {
-      "id": 1,
+      "id": 0,
       "Album":"ABC",
       "title":"Harry Potter Series",
       "img":"https://images.ireland.com/media/Images/galway/3b4e7902efca4e4c934dfcb8b32e79a6.jpg"
        
     },
     {
-        "id": 2,
+        "id": 1,
         "Album":"DFC",
         "title":"Plants",
         "img":"https://images.ireland.com/media/Images/galway/3b4e7902efca4e4c934dfcb8b32e79a6.jpg"
          
       },
       {
-        "id": 3,
+        "id": 2,
         "Album":"EFGG",
         "title":"valcanoes",
         "img":"https://images.ireland.com/media/Images/galway/3b4e7902efca4e4c934dfcb8b32e79a6.jpg"
          
       },
       {
-        "id": 4,
+        "id": 3,
         "Album":"IJK",
         "title":"covid19",
         "img":"https://images.ireland.com/media/Images/galway/3b4e7902efca4e4c934dfcb8b32e79a6.jpg"
          
       },
       {
-        "id": 5,
+        "id": 4,
         "Album":"LMN",
         "title":"Pzifer",
         "img":"https://images.ireland.com/media/Images/galway/3b4e7902efca4e4c934dfcb8b32e79a6.jpg"
          
       },
       {
-        "id": 6,
+        "id": 5,
         "Album":"OPP",
         "title":"mastercard",
         "img":"https://images.ireland.com/media/Images/galway/3b4e7902efca4e4c934dfcb8b32e79a6.jpg"
        
       },
       {
-        "id": 7,
+        "id": 6,
         "Album":"QRS",
         "title":"Horror Series",
         "img":"https://images.ireland.com/media/Images/galway/3b4e7902efca4e4c934dfcb8b32e79a6.jpg"
        
       },
        {
-        "id": 8,
+        "id": 7,
         "Album":"TUX",
         "title":"007",
         "img":"https://images.ireland.com/media/Images/galway/3b4e7902efca4e4c934dfcb8b32e79a6.jpg"
       
       },
       {
-        "id": 9,
+        "id": 8,
         "Album":"WX",
         "title":"Ireland",
         "img":"https://images.ireland.com/media/Images/galway/3b4e7902efca4e4c934dfcb8b32e79a6.jpg"
           
     },
       {
-        "id": 10,
+        "id": 9,
         "Album":"YZS",
         "title":"galway",
-        "img":"https://images.ireland.com/media/Images/galway/3b4e7902efca4e4c934dfcb8b32e79a6.jpg"
+        "img":"https://via.placeholder.com/200/0000FF/808080 ?Text=Digital.com"
       }
-      
       
           
   ]
